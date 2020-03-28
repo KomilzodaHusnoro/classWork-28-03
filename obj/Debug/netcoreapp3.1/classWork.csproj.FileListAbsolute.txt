@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\bin\Debug\netcoreapp3.1\classWork.exe
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\bin\Debug\netcoreapp3.1\classWork.deps.json
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\bin\Debug\netcoreapp3.1\classWork.runtimeconfig.json
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\bin\Debug\netcoreapp3.1\classWork.runtimeconfig.dev.json
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\bin\Debug\netcoreapp3.1\classWork.dll
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\bin\Debug\netcoreapp3.1\classWork.pdb
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.AssemblyInfo.cs
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.dll
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.pdb
+C:\Users\HP\Desktop\projects\new lessons\fifthLesson\classWork\obj\Debug\netcoreapp3.1\classWork.genruntimeconfig.cache
