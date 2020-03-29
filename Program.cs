@@ -34,38 +34,38 @@ namespace classWork
             //         iForWhile++;
             //     }
             // }
-            // {
-            //     int number = 5;
-            //     int numberOfTry = 3;
+            {
+                int number = 5;
+                int numberOfTry = 3;
 
-            //     while (numberOfTry != 0){
-            //         Console.WriteLine("Gues number 1-100");
-            //         int inPutNumber = int.Parse(Console.ReadLine());
-            //         if (inPutNumber == number){
-            //             Console.WriteLine("You win!");
-            //          break;
-            //         } else {
-            //             Console.WriteLine($"ostalos' {numberOfTry} popitok!");
-            //             numberOfTry--;
-            //         }
-            //     }
-            // }
-            // {
-            //     string moyUchitel = "Azizjon";
-            //     int popitki = 2;
+                while (numberOfTry != 0){
+                    Console.WriteLine("Gues number 1-100");
+                    int inPutNumber = int.Parse(Console.ReadLine());
+                    if (inPutNumber == number){
+                        Console.WriteLine("You win!");
+                     break;
+                    } else {
+                        Console.WriteLine($"ostalos' {numberOfTry} popitok!");
+                        numberOfTry--;
+                    }
+                }
+            }
+            {
+                string moyUchitel = "Azizjon";
+                int popitki = 2;
 
-            //     while (popitki != 0){
-            //         Console.WriteLine("Guess the name of my teacher: ");
-            //         string inputName = Console.ReadLine();
-            //         if (inputName == moyUchitel){
-            //             Console.WriteLine("You guess!");
-            //         break;
-            //         } else {
-            //             Console.WriteLine($"You have {popitki} try)");
-            //             popitki--;
-            //         }
-            //     }
-            // }
+                while (popitki != 0){
+                    Console.WriteLine("Guess the name of my C#teacher: ");
+                    string inputName = Console.ReadLine();
+                    if (inputName == moyUchitel){
+                        Console.WriteLine("You guess!");
+                    break;
+                    } else {
+                        Console.WriteLine($"You have {popitki} try)");
+                        popitki--;
+                    }
+                }
+            }
             {
                 Console.WriteLine("Enter number: ");
                 int firstNumber = int.Parse(Console.ReadLine());
